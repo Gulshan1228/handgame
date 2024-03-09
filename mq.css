@@ -1,0 +1,192 @@
+@media(max-width:1025px){
+    body{
+        padding-top: 222px;
+    }
+    nav h1{
+    font-size: 4rem;
+    }
+
+    #choiceContainer {
+        margin-top: 100px;
+    }
+    .players {
+        margin-top: 222px;
+    }
+
+    .img {
+        height: 10rem;
+        width: 10rem;
+    }
+    .btn {
+        font-size: 1.5rem;
+        padding: 15px 30px;
+        background-color: red;
+        letter-spacing: 0mm;
+    }
+
+    footer p{
+        font-size: 1rem;
+        text-align: end;
+        margin-top: 180px;
+    }
+}
+
+
+/* ****************************************** */
+@media(max-width:770px){
+    body{
+        padding-top: 150px;
+    }
+    nav h1{
+    font-size: 3rem;
+    }
+
+    #choiceContainer {
+        margin-top: 80px;
+    }
+    .players {
+        margin-top: 100px;
+    }
+
+    .img {
+        height: 8rem;
+        width: 8rem;
+    }
+    .btn {
+        font-size: 1.3rem;
+        padding: 15px 25px;
+        background-color:rgb(255, 106, 0,0.8) ;
+        letter-spacing: 0mm;
+    }
+
+    footer p{
+        font-size: 1rem;
+        text-align: end;
+        margin-top: 100px;
+    }
+}
+
+
+/* ****************************************** */
+@media(max-width:500px){
+    body{
+        padding-top: 150px;
+    }
+    nav h1{
+    font-size: 2.2rem;
+    padding: 0;
+    margin: 0;
+    }
+
+    #choiceContainer {
+        margin-top: 80px;
+    }
+    .players {
+        margin-top: 100px;
+        width: 80vw;
+    }
+
+    .img {
+        height: 5rem;
+        width: 5rem;
+    }
+    .btn {
+        font-size: 1.3rem;
+        padding: 15px 25px;
+        background-color:rgb(255, 106, 0,0.8) ;
+        letter-spacing: 0mm;
+    }
+
+    footer p{
+        font-size: 1rem;
+        text-align: end;
+        margin-top: 100px;
+    }
+}
+
+
+
+/* ****************************************** */
+@media(max-width:391px){
+    body{
+        padding-top: 120px;
+    }
+    nav h1{
+    font-size: 2.2rem;
+    padding: 0;
+    margin: 0;
+    }
+
+    #choiceContainer {
+        margin-top: 50px;
+        gap: 1rem;
+    }
+    .players {
+        margin-top: 100px;
+        width: 80vw;
+        font-size: 17px;
+    }
+
+    .img {
+        height: 5rem;
+        width: 5rem;
+    }
+    .btn {
+        font-size: 1.1rem;
+        padding: 8px 20px;
+        background-color:rgb(255, 106, 0,0.8) ;
+        letter-spacing: 0mm;
+    }
+
+    footer p{
+        font-size: 1rem;
+        text-align: end;
+        margin-top: 100px;
+    }
+}
+
+/* ****************************************** */
+@media(max-width:376px){
+    body{
+        padding-top: 100px;
+    }
+    nav h1{
+    font-size: 1.8rem;
+    letter-spacing: 0;
+    padding: 0;
+    margin: 0;
+    }
+
+    #choiceContainer {
+        margin-top: 30px;
+        gap: 1rem;
+    }
+    .players {
+        margin-top: 100px;
+        width: 60vw;
+        font-size: 15px;
+    }
+
+    .img {
+        height: 5rem;
+        width: 5rem;
+    }
+    .btn {
+        font-size: 1rem;
+        padding: 8px 10px;
+        background-color:rgb(255, 106, 0,0.8) ;
+        letter-spacing: 0mm;
+    }
+    .btn1{
+        margin-bottom: 15px;
+    }
+    .gameButton{
+        margin-top: -70px;
+    }
+
+    footer p{
+        font-size: 1rem;
+        text-align: end;
+        margin-top: 100px;
+    }
+}
