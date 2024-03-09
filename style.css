@@ -101,6 +101,7 @@ nav h1{
     border-radius: 10px;
     transition: all 0.25s ease;
     margin: 0px 20px;
+    color: black;
 }
 .btn1{
     background: linear-gradient(0deg, transparent,transparent);
