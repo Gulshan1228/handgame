@@ -80,7 +80,7 @@ Restart.addEventListener('click', () =>{
     result.style.backgroundColor="rgba(255, 128, 0)";
     result.style.color="black";
     result.innerHTML="Choose Your Move"
-
+    
     if(win>lose){
       alert(` Computer has ${lose} Wins and You Have ${win} Wins Thats Great You are overall Winner of this game`)
     } else if(win<lose){
@@ -88,6 +88,9 @@ Restart.addEventListener('click', () =>{
     }else{
       alert(`You Have ${win} Wins and Computer has ${lose} Wins Looks like match is Draw , as you both have same no. of wins`)
     }
+
+    win=0
+    lose=0
 })
 
 
