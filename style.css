@@ -33,6 +33,9 @@ nav h1{
 #choiceContainer button{
     background: transparent;
     border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 50%;
 }
 
 #choiceContainer button:nth-child(1) .img:hover{
